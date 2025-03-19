@@ -11,3 +11,4 @@
 - Find and print the index of the value `30` in `my_list`.
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/47f0b466-7529-4758-abab-12e3fd2c876c)
